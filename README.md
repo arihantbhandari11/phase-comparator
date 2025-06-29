@@ -23,4 +23,4 @@
 ![Diagram](assets/approach.jpg)
 
 ## 1. All Pass Filter
-![Diagram](assets/all pass filter.jpg)
+![Diagram](assets/allpassfilter.jpg)
