@@ -20,4 +20,4 @@
 - Connecting wires and Breadboard
 
 ## Approach
-
+![Diagram](assets/approach.png)
