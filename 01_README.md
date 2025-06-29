@@ -19,5 +19,8 @@
 - Capacitors and Resistors
 - Connecting wires and Breadboard
 
+## Credits
+- Author - Arihant Bhandari - BTech. in Electrical Engineering, IIT Indore
+
 
 
