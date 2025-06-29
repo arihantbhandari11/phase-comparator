@@ -1,5 +1,7 @@
 ## Hardware Implementation
 
+![Diagram](assets/19.jpg)
+
 ![Diagram](assets/20.jpg)
 
 ![Diagram](assets/21.jpg)
