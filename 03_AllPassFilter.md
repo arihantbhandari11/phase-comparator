@@ -5,11 +5,11 @@
 
 ## LTspice Circuits and Simulations
 
-![Diagram](EE 254 Analog Lab Project_1(5).jpg)
+![Diagram](assets/5.jpg)
 
-![Diagram](EE 254 Analog Lab Project_1(6).jpg)
+![Diagram](assets/6.jpg)
 
-![Diagram](EE 254 Analog Lab Project_1(7).jpg)
+![Diagram](assets/7.jpg)
 
 
 
