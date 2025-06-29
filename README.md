@@ -3,7 +3,7 @@
 ##  Problem Statement 
 - To design a phase comaparator circuit to measure phase difference between two signals.
 
-## Overview and Approach
+## Description
 - We are given two sinusoidal signals with with a phase difference between them. We need to find this phase difference.
 - We divide this PS into 3 stages:
   1. All Pass Filter - To generate desired phase difference between two input sinusoidal signals by potentiometer.
@@ -18,3 +18,6 @@
 - Zener Diode
 - Capacitors and Resistors
 - Connecting wires and Breadboard
+
+## Approach
+
